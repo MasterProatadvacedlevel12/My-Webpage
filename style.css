@@ -1,0 +1,44 @@
+body{
+text-align: center;
+background-color: floralwhite;    
+}
+
+h1{
+font-size: 40px;
+font-family: fantasy;
+    font-weight: 300;
+}
+
+#App{
+width: 100%;
+background-color: lightgreen;
+}
+
+#Games{
+width: 100%;
+background-color: lightgreen;    
+}
+
+#ChatBot{
+width: 100%;
+background-color: lightgreen;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+#photo{
+width: 175px;
+height: 195px;
+margin-bottom: 50px;
+border-radius: 50%;    
+}
+
+p{
+font-size: 20px;
+font-weight: 300;
+    font-family: fantasy;
+}
